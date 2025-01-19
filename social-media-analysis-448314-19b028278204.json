@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "social-media-analysis-448314",
+  "private_key_id": "19b028278204b893894fb690a190c37fb54e0507",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCv15Bi65GgP1Qd\n8XfKDhdbbPrhUQh4/1//O1RU/0ETa3OY34w1yHTcbOTjevywtjarGBaEL1cQ/EJP\nSE88NRQle2Sy/QtUfw3sIU820gKRzxmL0iEW7okC0MAsDj8TJuNTW7EewCom0BBy\nUjQ+9dwEWV1tB54AWLMWImCVK0bLlpCah5JeDUldvlXRqhJVqkVTSIwr3d73TSq3\n1aF7t1hXNfwzM9+GirVd/K7V10ZOY5l/qBZ5CfuIuBaK3nRrpDiqTtkcwpbLIr8o\n9O6cZa9WIO/9Y9s0I8v6i50IAKYecpX3jA1jv4I1X+XViDbiFoaRUDPCvi/1u3yE\nLBi7RRVvAgMBAAECggEAALe9B6JVhFVt1vdy2TjIgJ+HwJ6vjarhLe4EkJpAHj+s\nh521+Uw5qeKp5oHMgT4lJ/qfsOdukAuvi5pMdH7095gy14Yv4ybnnCSgqaUezJCP\nVqJDb1AG8COA/U0LldztRZxUsz7ujR0BTC4ot28SeFQTDQxgaTjzdi4qvcEg91jC\nv6IWfwkY9h/xDRxh5D39WS9PbDcFaaxB9YBFDwuLYzhABHshGmTLrD6MG9GGxB+I\n8UFccxiGhGvhHA0jS1rqy/f8xlluKiKhXGlJogUuOnYystJ0/6MZuaPV184aSVwR\ncPacOwa6IUb0dXQp9ykCY2y1bOCmEcn2AoAKnMn8CQKBgQDcM2bx2hYeb6TVOuUe\niVk+eANiD9xffWyYukvf2E6qBGecrmglTgd5oK/BQ3E/0+y79WUHGuVqs9kknLoD\nI/Pa7u1sq3IaZUoOKNX2+Ozgu0gkUUAEJ5c2MD7bLHXMFG5WHAOd4YTtpcj7+1vO\nCYUdbswyM73TWbt9dv5IhMM3VwKBgQDMbfuoiC6tWWChjjhFBlRKKKLZN9AW+fQQ\nEWqYqgJYaxQB/T0NdWEyIZNorRDFQjDw4YmuwEKac9VYZYgegWKz+NXyGge9aWRr\nGVbo/SF7NXlreUUHSbP0TdSrO8YZPOCNWF+Tvo+axwPJZryESf9rly2KVBMS+rb6\nTbpizC+7qQKBgBw5OmilW1BrXuU1t0hCsn2fRE+9WLGkkdbBihgW0X5ZMi6S7CZb\n6flc7yoGSu2zbBRrT5epit4yTxKyQ+VDJm5ZUXUsRGO9t9A4y7PsE/B6ELUW9O2T\nZX48kNHm0PJna/z9ejkyPqd3KFujzBCMh9NN8D4/A4WjarSaG92PprXhAoGATowP\nvuCcdrS5wTlg+3yEFH5qm+WrCbj+gtH+UCw6fHigFmeT9sDcGKP3/KdKo1Bcd6Fh\nAokSzj+lgLJ6S6ZRI29/3OcNhESjddclop3oKGwSfC37TOKPx1XEWgq8geP3L7f9\n+Uml6cV/+fmEg5vfDRroP5cwQQGeHqyQ6fckfAkCgYEArNHKoVgH5p/sFyNtrrdE\nF6Lxl1auFKnpbVaX81xT+JxH9PYvSMV4xMzmgJBHlXTuRMVZjbdjvYWs8ZYl1IoO\nXU1JA0sSUR56tFZ4/1cZSB7pECQicTU1HqEc1+XlPN5kVDBLS6NTNyEz8ya9evrd\nDOqf6dXCIngcxWVf0xB2Sx4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jeetsocialmediaanalysis@social-media-analysis-448314.iam.gserviceaccount.com",
+  "client_id": "108551058541081876461",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jeetsocialmediaanalysis%40social-media-analysis-448314.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
